@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./github-banner.png"
+<img src="./github-banner.webp"
      width="100%"
      alt="Henry Dre - IT and DevOps Portfolio" />
 
