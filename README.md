@@ -72,8 +72,22 @@ My interests sit at the intersection of IT infrastructure, DevOps engineering an
   <img src="https://img.shields.io/badge/Technical_Troubleshooting-2563EB?style=for-the-badge&logo=ifixit&logoColor=white" />
 </p>
 
-
 ---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=henry-dre0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-dre0&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+  <br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com/?user=henry-dre0&background=0D1117&border=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&hide_border=true" />
+
+</div>
+
 
 ## 🚀 FEATURED PROJECTS
 
