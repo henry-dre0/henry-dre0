@@ -1,6 +1,10 @@
 
 <div align="center">
 
+<img src="./assets/github-banner.png"
+     width="100%"
+     alt="Henry Dre - IT and DevOps Portfolio" />
+
 # HENRY DRE
 
 ### General IT Professional | DevOps & Cloud Engineering
