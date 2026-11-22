@@ -32,8 +32,6 @@ My interests sit at the intersection of IT infrastructure, DevOps engineering an
 
 ---
 
-## 🛠️ TECHNICAL TOOLKIT
-
 
 ## 🛠️ TECHNICAL SKILLS & TECHNOLOGIES
 
