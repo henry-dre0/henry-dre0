@@ -34,16 +34,46 @@ My interests sit at the intersection of IT infrastructure, DevOps engineering an
 
 ## 🛠️ TECHNICAL TOOLKIT
 
-| Category | Technologies |
-|---|---|
-| IT Operations | IT Support, Troubleshooting, ERP Administration |
-| Operating Systems | Windows, Linux |
-| Programming | Python, SQL, Bash, JavaScript |
-| Frontend | HTML, CSS, React, TypeScript |
-| DevOps | Docker, Docker Compose, Git, GitHub Actions, Jenkins |
-| Cloud | AWS Fundamentals |
-| Automation | Bash Scripting, Python Automation |
-| Tools | GitHub, VS Code, Trello, Odoo |
+
+## 🛠️ TECHNICAL SKILLS & TECHNOLOGIES
+
+### 💻 Programming & Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ⚙️ DevOps & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🖥️ IT Infrastructure & Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+### 🔧 IT Operations & Enterprise Support
+
+<p>
+  <img src="https://img.shields.io/badge/IT_Support-0A66C2?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP_Administration-4B5563?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technical_Troubleshooting-2563EB?style=for-the-badge&logo=ifixit&logoColor=white" />
+</p>
+
 
 ---
 
